@@ -5,13 +5,13 @@ const CONFIG = {
     btnIntro: '^^HiHi^^',
     title: 'Làm bạn thân tớ nha 🥰',
     desc: 'Có hay không zậy ?',
-    btnYes: 'Thích lắm <33',
+    btnYes: 'Thích lắm <3',
     btnNo: 'Không nha :3',
-    question: 'Từ nay cậu là bạn thân của tớ :3',
+    question: 'Từ nay cậu là bạn thân của tui :3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'ok',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: '.',
-    btnAccept: '',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    reply: 'oki',
+    mess: 'Mình biết mà 🥰',
+    messDesc: 'Kb fb tui nha.[ ghi oki ]',
+    btnAccept: 'oki',
+    messLink: 'https://www.facebook.com/ThanhBao262007/
 }
