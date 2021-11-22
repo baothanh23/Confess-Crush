@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Hi cậu :3',
     introDesc: `:3`,
     btnIntro: '^^HiHi^^',
-    title: 'Làm bạn thân tớ nha 🥰',
+    title: 'Làm bạn thân tui nha 🥰',
     desc: 'Có hay không zậy ?',
     btnYes: 'Thích lắm <3',
     btnNo: 'Không nha :3',
